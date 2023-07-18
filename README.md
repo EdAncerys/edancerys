@@ -7,7 +7,7 @@ I’m a software developer who loves building applications and writing code. Mos
 
 I work on projects in the JavaScript & TypeScript ecosystem.
 
-My projects range from stand-alone apps to stack applications.
+My projects range from stand-alone apps to full stack applications.
 Also cats 🐱 & traveling 🚀
 
 ---
