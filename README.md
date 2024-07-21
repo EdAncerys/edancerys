@@ -3,9 +3,13 @@
 [![Email Me](https://img.shields.io/badge/Email-lookatemail@gmail.com-007735.svg)](mailto:lookatemail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/ancerys/)
 
-I’m a software developer who loves building applications and writing code. Most of my professional career has been focused on front-end development & mobile applications. Apart from using a variety of frameworks for building web applications most of them have been built using React & frameworks build around it.
+I love building applications and writing code. Most of my professional career has been focused on web and mobile applications. Apart from using a variety of frameworks for building web applications, most of them have been built using React and frameworks built around it. I enjoy coding in Ruby and Python, but most of the applications I have built so far are with JavaScript and TypeScript.
 
-I work on projects in the JavaScript & TypeScript ecosystem.
+I graduated from Maker's Academy and am a former retail manager with a unique approach to problem-solving. I don’t shy away from challenges and consider myself a self-motivated developer. I enjoy working in teams, learning processes, and lending a hand when needed.
+
+I am always looking for ways to expand my knowledge, improve myself or my environment, learn from colleagues, or teach new skills in a variety of possible ways.
+
+My skills include, but are not limited to, coding, traveling, mixing cocktails, building applications and software, and enjoying the sunshine. Proficiency ranges from excellent to absolutely awful.
 
 My projects range from stand-alone apps to full stack applications.
 Also cats 🐱 & traveling 🚀
