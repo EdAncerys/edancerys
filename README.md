@@ -18,11 +18,12 @@ Also cats 🐱 & traveling 🚀
 
 ### My skills 
 
-- Front-end technologies such as HTML, CSS, JavaScript & TypeScript.
-- Proficient with front end frameworks such as React, Bootsrap, Materialize & Next.js
-- State management.  
-- UX/UI skills. 
-- Ability to work collaboratively. 
+- Programming Languages: JavaScript, TypeScript, Ruby, Python
+- Frameworks: NextJS, Astro and various frameworks built around React
+- Development Focus: Front-end & full stack development, mobile applications
+- Additional Skills: Application and software development, coding best practices, problem-solving
+- Soft Skills: Team collaboration, continuous learning, adaptability
+- Hobbies: Traveling, mixing cocktails, enjoying the outdoors
 
 Feel free to reach out if you want to connect or collaborate on a project!
 
